@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Pest Search</title>
+</head>
+<body>
+  <h1>🔍 Pest Search</h1>
+  <input type="text" id="searchBox" placeholder="Type pest name..." />
+  <div id="results"></div>
+
+  <!-- Load Fuse.js for fuzzy search -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js"></script>
+  <script>
+    // Load your data.json file
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        const fuse = new Fuse(data, {
+          keys: ['name'],
+          threshold: 0.3
+        });
+
+        document.getElementById('searchBox').addEventListener('input', function () {
+          const query = this.value;
+          const results = fuse.search(query);
+
+          document.getElementById('results').innerHTML = results.map(result => {
+            const pest = result.item;
+            return `
+              <h3>${pest.name}</h3>
+              <ul>
+                ${pest.activeIngredients.map(ai => `<li>${ai}</li>`).join('')}
+              </ul>
+            `;
+          }).join('');
+        });
+      });
+  </script>
+</body>
+</html>

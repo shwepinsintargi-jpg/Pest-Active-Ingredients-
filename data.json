@@ -1,0 +1,222 @@
+[
+  {
+    "name": "စပါးဆစ်ပိုး – Rice stem borer",
+    "activeIngredients": [
+      "Chlorantraniliprole",
+      "Fipronil",
+      "Cartap hydrochloride",
+      "Emamectin benzoate",
+      "Chlorantraniliprole + Thiamethoxam"
+    ]
+  },
+  {
+    "name": "စပါးကြက်သွန်မိတ်ပိုး – Rice gall midge",
+    "activeIngredients": [
+      "Imidacloprid",
+      "Thiamethoxam",
+      "Fipronil",
+      "Lambda-cyhalothrin",
+      "Imidacloprid + Lambda-cyhalothrin"
+    ]
+  },
+  {
+    "name": "ငမြှောင်တောင် – Armyworm",
+    "activeIngredients": [
+      "Emamectin benzoate",
+      "Indoxacarb",
+      "Lambda-cyhalothrin",
+      "Cypermethrin",
+      "Emamectin benzoate + Indoxacarb"
+    ]
+  },
+  {
+    "name": "စပါးရွက်လိပ်အိမ်ပိုး – Rice leaf folder",
+    "activeIngredients": [
+      "Flubendiamide",
+      "Emamectin benzoate",
+      "Chlorantraniliprole",
+      "Thiamethoxam",
+      "Flubendiamide + Thiamethoxam"
+    ]
+  },
+  {
+    "name": "စပါးလောင်မီးပိုး – Rice whorl maggot / caseworm",
+    "activeIngredients": [
+      "Cartap hydrochloride",
+      "Fipronil",
+      "Cypermethrin",
+      "Lambda-cyhalothrin",
+      "Cartap + Cypermethrin"
+    ]
+  },
+  {
+    "name": "ဖြုတ်ပိုး – Planthopper",
+    "activeIngredients": [
+      "Emamectin benzoate",
+      "Indoxacarb",
+      "Cypermethrin",
+      "Lambda-cyhalothrin",
+      "Emamectin + Indoxacarb"
+    ]
+  },
+  {
+    "name": "စပါးနှံဖြတ်ပိုး – Rice cutworm",
+    "activeIngredients": [
+      "Chlorpyrifos",
+      "Cypermethrin",
+      "Emamectin benzoate",
+      "Indoxacarb",
+      "Chlorpyrifos + Cypermethrin"
+    ]
+  },
+  {
+    "name": "စပါးနှံစုပ်ပိုး – Rice sap-sucking pest",
+    "activeIngredients": [
+      "Imidacloprid",
+      "Thiamethoxam",
+      "Dinotefuran",
+      "Buprofezin",
+      "Imidacloprid + Dinotefuran"
+    ]
+  },
+  {
+    "name": "ပဲဂျပိုးစိမ်း – Green stink bug",
+    "activeIngredients": [
+      "Acephate",
+      "Thiamethoxam",
+      "Fipronil",
+      "Imidacloprid",
+      "Lambda-cyhalothrin",
+      "Acephate + Cypermethrin"
+    ]
+  },
+  {
+    "name": "ရွက်ဖောက်ကျိုင်း – Leaf roller / Leaf miner",
+    "activeIngredients": [
+      "Abamectin",
+      "Emamectin benzoate",
+      "Cypermethrin",
+      "Thiamethoxam",
+      "Abamectin + Thiamethoxam"
+    ]
+  },
+  {
+    "name": "ပင်စည်ထိုးယင် – Stem borer fly",
+    "activeIngredients": [
+      "Chlorantraniliprole",
+      "Emamectin benzoate",
+      "Cartap hydrochloride",
+      "Chlorantraniliprole + Lambda-cyhalothrin"
+    ]
+  },
+  {
+    "name": "ယင်ဖြူ – Whitefly",
+    "activeIngredients": [
+      "Imidacloprid",
+      "Thiamethoxam",
+      "Buprofezin",
+      "Acetamiprid",
+      "Imidacloprid + Buprofezin"
+    ]
+  },
+  {
+    "name": "လှေးပိုး – Aphid",
+    "activeIngredients": [
+      "Imidacloprid",
+      "Thiamethoxam",
+      "Acetamiprid",
+      "Dinotefuran",
+      "Imidacloprid + Acetamiprid"
+    ]
+  },
+  {
+    "name": "ပင်စည်ထိုးယင် – Stem fly",
+    "activeIngredients": [
+      "Fipronil",
+      "Thiamethoxam",
+      "Cypermethrin",
+      "Emamectin benzoate",
+      "Fipronil + Thiamethoxam"
+    ]
+  },
+  {
+    "name": "ခူမွှေးရှည် – Hairy caterpillar",
+    "activeIngredients": [
+      "Emamectin benzoate",
+      "Indoxacarb",
+      "Lambda-cyhalothrin",
+      "Cypermethrin",
+      "Emamectin + Indoxacarb"
+    ]
+  },
+  {
+    "name": "ပွင့်ထွေး၊သီးလုံးဖောက် – Pod borer",
+    "activeIngredients": [
+      "Chlorantraniliprole",
+      "Emamectin benzoate",
+      "Indoxacarb",
+      "Flubendiamide",
+      "Chlorantraniliprole + Emamectin"
+    ]
+  },
+  {
+    "name": "ပျပိုး",
+    "activeIngredients": [
+      "Spinetoram",
+      "Abamectin",
+      "Fipronil",
+      "Thiamethoxam",
+      "Spinetoram + Abamectin"
+    ]
+  },
+  {
+    "name": "စပါးအရွက်ဖောက်ကျိုင်း – Leaf miner",
+    "activeIngredients": [
+      "Abamectin",
+      "Emamectin benzoate",
+      "Cypermethrin",
+      "Thiamethoxam",
+      "Abamectin + Cypermethrin"
+    ]
+  },
+  {
+    "name": "စပါးပင်စည်ထိုးပိုး / ဆစ်ပိုး – Stem maggot",
+    "activeIngredients": [
+      "Cartap hydrochloride",
+      "Fipronil",
+      "Imidacloprid",
+      "Lambda-cyhalothrin",
+      "Cartap + Fipronil"
+    ]
+  },
+  {
+    "name": "စပါးအရွက်ညှာပိုး – Rice mealybug",
+    "activeIngredients": [
+      "Thiamethoxam",
+      "Buprofezin",
+      "Imidacloprid",
+      "Acetamiprid",
+      "Thiamethoxam + Buprofezin"
+    ]
+  },
+  {
+    "name": "စပါးအဖူးထိုးပိုး – Panicle borer",
+    "activeIngredients": [
+      "Chlorantraniliprole",
+      "Emamectin benzoate",
+      "Lambda-cyhalothrin",
+      "Cartap hydrochloride",
+      "Chlorantraniliprole + Lambda-cyhalothrin"
+    ]
+  },
+  {
+    "name": "ခရမ်းသီးလုံးဖောက်၊ခေါင်ညွန့်ပိုး",
+    "activeIngredients": [
+      "Profenofos",
+      "Carbosulfan",
+      "Emamectin benzoate",
+      "Lambda-cyhalothrin",
+      "Cypermethrin"
+    ]
+  }
+]
